@@ -80,6 +80,81 @@ div.first {
     border: 1px solid black;
     padding: 10px;
 }
+/* BEGIN EXCUSION */
+img.excursion {
+    width: 45%;
+}
+img.excursion1 {
+    width: 25.32%;
+}
+img.excursion2 {
+    width: 33%;
+}
+iframe {
+    width: 100%;
+}
+/* EINDE EXCURSION */
+
+/* BEGIN COMPUTER VISION */
+div.assignment {
+    line-height: 1.9;
+    font-size: 1.1em;
+}
+img.processing{
+    width: 40%;
+}
+img.processing1{
+    width: 25%;
+}
+
+/* EINDE COMPUTER VISION */
+
+/* BEGIN MAPPING */
+
+img.processing3{
+    width: 33%;
+}
+img.processing_edit{
+    width: 38%;
+    float: right;
+}
+div.1 {
+    width: 100%;
+}
+p.tekst {
+    width: 55%;
+    float: left;
+}
+
+
+/* EINDE MAPPING */
+
+/* BEGIN AR AND VR */
+.vr-assignment{
+
+}
+.vr-assignment a {
+    text-decoration: none;
+    color: #000;
+}
+.vr-assignment a:hover {
+    color: blue;
+}
+span {
+    font-weight: bold;
+}
+/* EINDE AR AND VR */
+
+
+
+
+.labweeks-photos img {
+    width: 30%;
+}
+img.conceptschets {
+    width: 100%;
+}
+
 
 
 /* EINDE CONTENT */
